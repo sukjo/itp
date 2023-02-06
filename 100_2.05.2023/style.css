@@ -1,0 +1,10 @@
+html {
+  margin: 0;
+  padding: 0;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,e4c9e8+59,dd6a5a+87,cc7488+100 */
+  background: linear-gradient(to bottom,  rgba(30,87,153,1) 0%,rgba(228,201,232,1) 59%,rgba(221,106,90,1) 87%,rgba(204,116,136,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+canvas {
+  display: block;
+}
