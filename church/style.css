@@ -1,0 +1,11 @@
+html {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(ellipse at center, rgba(255, 209, 104, 1) 0%, rgba(255, 160, 117, 1) 15%, rgba(155, 182, 255, 1) 63%, rgba(155, 182, 255, 1) 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#7aadff+0,030026+100 */
+}
+
+canvas {
+  display: block;
+}
